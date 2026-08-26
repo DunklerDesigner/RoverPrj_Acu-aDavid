@@ -1,12 +1,16 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
+RoverPrj_AcuñaDavid
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Proyecto desarrollado para la Actividad Asincrónica 3 (AA3) del curso TI2201 - Programación Orientada a Objetos del Tecnológico de Costa Rica.
+
+Descripción
+El proyecto consiste en el diseño e implementación de una clase Rover que representa un vehículo destinado a la exploración de la superficie marciana.
+
+La clase permite administrar aspectos como:
+1 Posición actual del Rover mediante coordenadas X y Y.
+2 Potencia inicial y disponible.
+3 Desplazamientos hacia arriba, abajo, izquierda y derecha.
+4 Detección de fugas de calor.
+5 Recargas de potencia.
+6 Registro de mandatos exitosos y fallidos.
+7 Consulta del estado del Rover.
+8 Registro de los Rovers creados.
